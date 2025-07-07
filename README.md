@@ -63,7 +63,7 @@
 This project serves as an assignment to undertake a **rebranding and redevelopment of a musician's official website**, using the band 5 Seconds of Summer (5SOS) as a case study. The primary objective was to apply modern web design and development techniques to create a more dynamic, user-friendly, and aesthetically current online experience for their fanbase.
 
 Key elements of this project included:
-* **Information Architecture Redesign:** Organizing content for intuitive navigation, including dedicated sections for tour dates, media, and band information.
+* **Information Architecture Redesign:** Organising content for intuitive navigation, including dedicated sections for tour dates, media, and band information.
 * **Visual Rejuvenation:** Implementing a refreshed visual style that aligns with the band's current image while enhancing overall appeal.
 * **Interactive Features:** Integrating responsive elements such as an image carousel for media display and an email newsletter subscription form to improve fan engagement.
 
